@@ -9,16 +9,17 @@
 }
 
 
-@media (min-width: 600px) {#container {
-    display: flex;
-}
+@media (min-width: 600px) {
+    #container {
+        display: flex;
+    }
 
-#main {
-    width: 70%;
-}
+    #main {
+        width: 70%;
+    }
 
-#sidebar {
-    width: 30%;
-}
+    #sidebar {
+        width: 30%;
+    }
 
 }
